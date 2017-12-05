@@ -1,2 +1,4 @@
 theme: black
+theme-override : assets/css/PITCHME.css
 logo: assets/texas-rangers.png
+published : true
